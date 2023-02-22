@@ -16,8 +16,7 @@ public:
         }
         else  if(nums[m]== 1){
         m++;
-   
-        
+      
         }
         
         else{
